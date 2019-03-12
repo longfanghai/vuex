@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import Vuex from'vuex';
-import counter from './store/modules/counter'
+//import counter from './store/modules/counter'
 Vue.use(Vuex);
 //创建一个仓库 Vue.Store()
 export const store=new Vuex.Store({
